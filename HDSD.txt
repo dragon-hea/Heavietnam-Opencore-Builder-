@@ -1,0 +1,4 @@
+Chạy file install
+Chạy file main
+Nhập cấu hình
+Sau khi tool chạy file EFI nằm ở trong Scripts/extra/X64/EFI

@@ -1,0 +1,23 @@
+{
+    "CPU Generation": "Alder Lake",
+    "Device Type": "Desktop",
+    "Laptop Brand": "None",
+    "Has DGPU": "Yes",
+    "DGPU Brand": "AMD",
+    "AMD GPU Type": "Navi(10, 21, 22, 23)",
+    "Has IGPU": "None",
+    "IGPU Model": "None",
+    "Drive Type": "NVMe",
+    "Drive Model": "other",
+    "Has WiFi Card": "Yes",
+    "WiFi Card Brand": "Intel",
+    "WiFi Card Model": "AxXXX",
+    "macOS Version": "Sonoma14.4",
+    "Has Trackpad": "None",
+    "Trackpad Type": "None",
+    "Trackpad Model": "None",
+    "Has LAN Card": "Yes",
+    "LAN Card Brand": "Intel",
+    "LAN Card Model": "I225-V",
+    "OpenCore version": "OpenCore standard"
+}
